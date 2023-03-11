@@ -1,8 +1,8 @@
 # Paul Gerbersgagen
----
+
 ## Contacts
 **Location:** World  
-**E-mail:** doitrem@gmail.com
+**E-mail:** doitrem@gmail.com  
 **GitHub:** [doitrem](https://github.com/doitrem)
 
 ## About Me  
