@@ -3,7 +3,9 @@
 ## Contacts
 **Location:** World  
 **E-mail:** doitrem@gmail.com  
-**GitHub:** [doitrem](https://github.com/doitrem)
+**GitHub:** [doitrem](https://github.com/doitrem)  
+**Discord:** Paul (@doitrem)
+
 
 ## About Me  
 I`m web-designer with 6+ years of experience. Now I would like to learn __js__ and __react__ framework.
