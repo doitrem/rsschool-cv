@@ -7,7 +7,7 @@
 ## About Me  
 I`m web-designer with 6+ years of experience. Now I would like to learn js and react framework.
 
-## About Me  
+## Skills 
 * HTML
 * CSS
 * JavaScript 
